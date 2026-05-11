@@ -57,5 +57,5 @@ Dự án này đại diện cho tư duy **First Principles** (Nguyên lý gốc)
 Dự án này được bảo hộ bởi giấy phép **Apache License 2.0**. Bạn có quyền sử dụng, sửa đổi và phân phối lại ý tưởng này, miễn là đảm bảo sự ghi nhận tác giả và tuân thủ các điều khoản về bảo hộ bằng sáng chế.
 
 ---
-**Author:** [Tên của bạn hoặc Username GitHub]
+**Author:** [Thanhzro]
 *"In a world of infinite loops, find your D = L - rD."*
